@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋. I'm Sergi Bech!
 
-- 🔭 I’m currently pursuing a MsC in Data Science.
+- 🔭 I’m currently pursuing a MSc in Data Science.
 - 🌱 I’m currently learning new things and improving my skills everyday.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: sergibechsala@gmail.com
